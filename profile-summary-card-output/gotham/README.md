@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kter/kter/master/profile-summary-card-output/gotham/4-productive-time.svg)
+```
+
+    
